@@ -2,7 +2,7 @@
     println "hola"
 // inicialitzem variables
     a= 'hola'
-    b='ester'
+    b='maia'
     println "b es:"+b
 //amb cometa doble el que hi hagi entre $ {} es substitueix pel resultat de l'expressió
     c="${a} ${b}"

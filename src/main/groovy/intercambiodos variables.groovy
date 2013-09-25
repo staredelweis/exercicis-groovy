@@ -1,4 +1,3 @@
-//
     def readln=javax.swing.JOptionPane.&showInputDialog
 //Declaración de variables, debemos declarar 3 variables a y b para intercanviar y c  para guardar el valor 
 //de la variable a intercanviar  
